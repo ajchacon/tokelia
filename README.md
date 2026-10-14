@@ -5,7 +5,8 @@
 **White-label fintech infrastructure for Latin America: banking, payments, stablecoins and real-world asset tokenization**
 
 [![Web](https://img.shields.io/badge/tokelia.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tokelia.com)
-![Type](https://img.shields.io/badge/BaaS-Fintech-58A6FF?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-CTO-58A6FF?style=for-the-badge)
+![Type](https://img.shields.io/badge/BaaS-Fintech-2EA043?style=for-the-badge)
 ![RWA](https://img.shields.io/badge/RWA-ERC--3643-8247E5?style=for-the-badge)
 
 </div>
@@ -26,7 +27,7 @@ Tokelia is a **Banking-as-a-Service** platform for launching a branded fintech w
 
 ## My role
 
-I work on the design and development of the platform, focusing on payments, stablecoin integration and asset tokenization.
+As **CTO** since 2024, I lead the architecture and development of the platform: banking and payment rail integrations, stablecoins, RWA tokenization and cloud infrastructure.
 
 ## Tech
 
